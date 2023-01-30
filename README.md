@@ -1,2 +1,7 @@
 # css-magic
- CSS Effects and Tricks
+ CSS Effects, Animations and Tricks
+
+## Text Effects and Animations
+
+### Flashlight Glowing Text
+
