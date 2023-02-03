@@ -16,9 +16,9 @@
 ### Hover Cells
 ![Hover Cells](https://github.com/daniilshat/css-magic/blob/main/hover-cells/hover-cells-light.gif)
 
-| [Folder](https://github.com/daniilshat/css-magic/tree/main/hover-cells) |
-| [HTML](https://github.com/daniilshat/css-magic/blob/main/hover-cells/hover-cells.html) |
-| [CSS](https://github.com/daniilshat/css-magic/blob/main/hover-cells/hover-cells.css) |
+| [Folder](https://github.com/daniilshat/css-magic/tree/main/hover-cells)
+| [HTML](https://github.com/daniilshat/css-magic/blob/main/hover-cells/hover-cells.html)
+| [CSS](https://github.com/daniilshat/css-magic/blob/main/hover-cells/hover-cells.css)
 | [Codepen](https://codepen.io/daniilshat/pen/abjaqqd) |
 
 -----
